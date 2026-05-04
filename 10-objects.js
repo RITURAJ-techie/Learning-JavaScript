@@ -7,7 +7,7 @@ tinderUser.name="samay"
 tinderUser.isloggedIN=false
 
 // console.log(tinderUser)
-// console.log(Object.keys(tinderUser)) //gives Array
+// consolegit .log(Object.keys(tinderUser)) //gives Array
 // console.log(Object.values(tinderUser))
 // console.log(Object.entries(tinderUser))
 // console.log(tinderUser.hasOwnProperty('isloggedIN'))//true
