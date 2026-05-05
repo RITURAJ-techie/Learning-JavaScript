@@ -58,3 +58,12 @@ console.log(addThree(3,1,2))
 
 const object1 = (nums) => ({username:"harsh"})
 console.log(object1())
+
+const myArray = [2,3,4,5,6]
+
+// myArray.forEach(function () {})
+
+
+// Arrow functions do NOT have their own this
+// They take this from the outer scope
+// Here outer scope = global → no username
