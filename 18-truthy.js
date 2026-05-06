@@ -57,7 +57,7 @@ console.log(val1)
 
 
 // Terniary Operatore
-
+//if-else short form
 // condition ? true : false
 
 const iceTeaPrice = 100
