@@ -29,4 +29,5 @@ switch (month) {
 }
 
 // If any switch statement matches the condition,
-// after that switch executes all the statements., that's why Break is Imp.
+// after that switch executes all the statements.,
+// that's why Break is Imp.
